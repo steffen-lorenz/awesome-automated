@@ -20,7 +20,14 @@
 
 [What did you automate using python??](https://www.reddit.com/r/Python/comments/7lh7gy/what_did_you_automate_using_python/)
 
+### 11.10.2017
+**Hackernews**
+
+[Ask HN: What non-work task have you automated?](https://news.ycombinator.com/item?id=15451442)
+
 ### 16.07.2017
+**Hackernews**
+
 [Ask HN: What tasks do you automate?](https://news.ycombinator.com/item?id=14782332)
 
 ### 21.05.2017
