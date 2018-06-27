@@ -5,6 +5,11 @@
 
 [Ask HN: What are the things that you have automated in your personal life?](https://news.ycombinator.com/item?id=17385291&p=2)
 
+### 22.04.2018
+**reddit/r/Python**
+
+[What is the hardest/weirdest thing you have automated with Python?](https://www.reddit.com/r/Python/comments/8e6czq/what_is_the_hardestweirdest_thing_you_have/)
+
 ### 23.12.2017
 **reddit/r/Python**
 
