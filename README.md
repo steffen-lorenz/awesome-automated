@@ -8,20 +8,17 @@
 ### 05.05.2017
 **reddit/r/Python**
 
-[How have you automated your life with python? (if you have)]
-(https://www.reddit.com/r/Python/comments/69ba93/how_have_you_automated_your_life_with_python_if/)
+[How have you automated your life with python? (if you have)](https://www.reddit.com/r/Python/comments/69ba93/how_have_you_automated_your_life_with_python_if/)
 
 ### 28.03.2017
 **reddit/r/Python**
 
-[r/python, what are some of the coolest things you've automated using python?]
-(https://www.reddit.com/r/Python/comments/61vbni/rpython_what_are_some_of_the_coolest_things_youve/)
+[r/python, what are some of the coolest things you've automated using python?](https://www.reddit.com/r/Python/comments/61vbni/rpython_what_are_some_of_the_coolest_things_youve/)
 
 ### 14.07.2015
 **reddit/r/Python**
 
-[Hey Python People! What tasks have you automated/sped up outside of work with Python?]
-(https://www.reddit.com/r/Python/comments/3d7nrh/hey_python_people_what_tasks_have_you/)
+[Hey Python People! What tasks have you automated/sped up outside of work with Python?](https://www.reddit.com/r/Python/comments/3d7nrh/hey_python_people_what_tasks_have_you/)
 
 ### 29.05.2015
 **reddit/r/Python**
