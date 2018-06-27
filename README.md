@@ -20,10 +20,18 @@
 
 [What did you automate using python??](https://www.reddit.com/r/Python/comments/7lh7gy/what_did_you_automate_using_python/)
 
+### 16.07.2017
+[Ask HN: What tasks do you automate?](https://news.ycombinator.com/item?id=14782332)
+
 ### 21.05.2017
 **reddit/r/Python**
 
 [What boring stuff do you automate?](https://www.reddit.com/r/Python/comments/6ci6cq/what_boring_stuff_do_you_automate/)
+
+### 15.05.2017
+**Hackernews**
+
+[Ask HN: What you have automated with Python?](https://news.ycombinator.com/item?id=14339959)
 
 ### 05.05.2017
 **reddit/r/Python**
@@ -54,3 +62,7 @@
 **reddit/r/Python**
 
 [What is the neatest, coolest or most satisfying job you have automated with a python script?](https://www.reddit.com/r/Python/comments/4aho3c/what_is_the_neatest_coolest_or_most_satisfying/)
+
+
+## Classic
+https://github.com/NARKOZ/hacker-scripts
