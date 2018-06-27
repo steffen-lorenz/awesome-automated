@@ -25,6 +25,11 @@
 
 [Ask HN: What non-work task have you automated?](https://news.ycombinator.com/item?id=15451442)
 
+### 25.08.2017
+**Quora**
+
+[As a programmer, what tasks have you automated to make your everyday life easier? How can one expect to improve life through automated programming?](https://www.quora.com/As-a-programmer-what-tasks-have-you-automated-to-make-your-everyday-life-easier-How-can-one-expect-to-improve-life-through-automated-programming)
+
 ### 16.07.2017
 **Hackernews**
 
@@ -50,6 +55,11 @@
 
 [r/python, what are some of the coolest things you've automated using python?](https://www.reddit.com/r/Python/comments/61vbni/rpython_what_are_some_of_the_coolest_things_youve/)
 
+### 17.11.2016
+**Spiceworks**
+
+[What Have You Automated Using PowerShell?](https://community.spiceworks.com/topic/1926925-what-have-you-automated-using-powershell)
+
 ### 14.07.2015
 **reddit/r/Python**
 
@@ -70,6 +80,10 @@
 
 [What is the neatest, coolest or most satisfying job you have automated with a python script?](https://www.reddit.com/r/Python/comments/4aho3c/what_is_the_neatest_coolest_or_most_satisfying/)
 
+### 25.09.2014
+**reddit/r/Python**
+
+[https://www.reddit.com/r/Python/comments/2hgqss/what_have_you_automated/](What have you automated?)
 
 ## Classic
 https://github.com/NARKOZ/hacker-scripts
