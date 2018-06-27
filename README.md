@@ -5,6 +5,21 @@
 
 [Ask HN: What are the things that you have automated in your personal life?](https://news.ycombinator.com/item?id=17385291&p=2)
 
+### 23.12.2017
+**reddit/r/Python**
+
+[How do you automate your life with python?](https://www.reddit.com/r/Python/comments/5jv3db/how_do_you_automate_your_life_with_python/)
+
+### 22.12.2017
+**reddit/r/Python**
+
+[What did you automate using python??](https://www.reddit.com/r/Python/comments/7lh7gy/what_did_you_automate_using_python/)
+
+### 21.05.2017
+**reddit/r/Python**
+
+[What boring stuff do you automate?](https://www.reddit.com/r/Python/comments/6ci6cq/what_boring_stuff_do_you_automate/)
+
 ### 05.05.2017
 **reddit/r/Python**
 
