@@ -30,6 +30,11 @@
 
 [What routine tasks do you automate with programs?](https://www.reddit.com/r/Python/comments/70udwq/what_routine_tasks_do_you_automate_with_programs/)
 
+### 28.08.2017 (added 16.08.18)
+**reddit/r/Python**
+
+[What Python program have you created to make your life easier?](https://www.reddit.com/r/learnpython/comments/501inc/what_python_program_have_you_created_to_make_your/)
+
 ### 25.08.2017
 **Quora**
 
