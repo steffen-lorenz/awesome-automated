@@ -25,6 +25,11 @@
 
 [Ask HN: What non-work task have you automated?](https://news.ycombinator.com/item?id=15451442)
 
+### 18.09.2017 (added 16.08.18)
+**reddit/r/Python**
+
+[What routine tasks do you automate with programs?](https://www.reddit.com/r/Python/comments/70udwq/what_routine_tasks_do_you_automate_with_programs/)
+
 ### 25.08.2017
 **Quora**
 
@@ -50,6 +55,11 @@
 
 [How have you automated your life with python? (if you have)](https://www.reddit.com/r/Python/comments/69ba93/how_have_you_automated_your_life_with_python_if/)
 
+### 09.04.2017 (added 16.08.18)
+**reddit/r/networking**
+
+(What all have you automated with Python scripts that couldn't have been (easily) be done with SolarWinds NCM or Prime Infrastructure?)[https://www.reddit.com/r/networking/comments/64aaxh/what_all_have_you_automated_with_python_scripts/]
+
 ### 28.03.2017
 **reddit/r/Python**
 
@@ -59,6 +69,16 @@
 **Spiceworks**
 
 [What Have You Automated Using PowerShell?](https://community.spiceworks.com/topic/1926925-what-have-you-automated-using-powershell)
+
+### 15.05.2016 (added 16.08.18)
+**reddit/r/Python**
+
+[What did you automate with python (scripts)?](https://www.reddit.com/r/Python/comments/4jhma7/what_did_you_automate_with_python_scripts/)
+
+### 18.10.2015 (added 16.08.18)
+**reddit/r/Python**
+
+[What did YOU automate with python?](https://www.reddit.com/r/Python/comments/3p8m2s/what_did_you_automate_with_python/)
 
 ### 14.07.2015
 **reddit/r/Python**
@@ -70,10 +90,20 @@
 
 [What cool program to automate a daily task did you write?](https://www.reddit.com/r/Python/comments/34982z/what_cool_program_to_automate_a_daily_task_did/)
 
+### 25.03.2015
+**reddit/r/Python**
+
+[How do you use python to automate tasks in life or at work?](https://www.reddit.com/r/Python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/)
+
 ### 29.04.2015
 **reddit/r/Python**
 
 [What cool program to automate a daily task did you write?](https://www.reddit.com/r/Python/comments/34982z/what_cool_program_to_automate_a_daily_task_did/)
+
+### 15.03.2015 (added 16.08.18)
+**reddit/r/Python**
+
+(How do you use python to automate tasks in life or at work?)[https://www.reddit.com/r/Python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/]
 
 ### 15.03.2015
 **reddit/r/Python**
