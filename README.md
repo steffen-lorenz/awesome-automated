@@ -108,7 +108,7 @@
 ### 15.03.2015 (added 16.08.18)
 **reddit/r/Python**
 
-(How do you use python to automate tasks in life or at work?)[https://www.reddit.com/r/Python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/]
+[How do you use python to automate tasks in life or at work?](https://www.reddit.com/r/Python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/)
 
 ### 15.03.2015
 **reddit/r/Python**
