@@ -63,7 +63,7 @@
 ### 09.04.2017 (added 16.08.18)
 **reddit/r/networking**
 
-(What all have you automated with Python scripts that couldn't have been (easily) be done with SolarWinds NCM or Prime Infrastructure?)[https://www.reddit.com/r/networking/comments/64aaxh/what_all_have_you_automated_with_python_scripts/]
+[What all have you automated with Python scripts that couldn't have been (easily) be done with SolarWinds NCM or Prime Infrastructure?](https://www.reddit.com/r/networking/comments/64aaxh/what_all_have_you_automated_with_python_scripts/)
 
 ### 28.03.2017
 **reddit/r/Python**
@@ -118,7 +118,7 @@
 ### 25.09.2014
 **reddit/r/Python**
 
-[https://www.reddit.com/r/Python/comments/2hgqss/what_have_you_automated/](What have you automated?)
+[What have you automated?](https://www.reddit.com/r/Python/comments/2hgqss/what_have_you_automated/)
 
 ## Classic
 https://github.com/NARKOZ/hacker-scripts
