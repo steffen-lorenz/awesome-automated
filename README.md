@@ -1,5 +1,13 @@
 # awesome-automated
 
+**Rules**
+- at least 20 Posts
+
+### 01.10.2018 (added 13.01.19)
+**reddit/r/Python**
+
+[What tasks have you automated using python, and how much time did you save?](https://www.reddit.com/r/Python/comments/9kcpqd/what_tasks_have_you_automated_using_python_and/)
+
 ### 24.06.2018
 **Hackernews**
 
@@ -39,6 +47,11 @@
 **Quora**
 
 [As a programmer, what tasks have you automated to make your everyday life easier? How can one expect to improve life through automated programming?](https://www.quora.com/As-a-programmer-what-tasks-have-you-automated-to-make-your-everyday-life-easier-How-can-one-expect-to-improve-life-through-automated-programming)
+
+### 22.10.2017 (added 13.01.19)
+**reddit/r/Python**
+
+[What have you automated that you're proud of?](https://www.reddit.com/r/sysadmin/comments/6v6q4z/what_have_you_automated_that_youre_proud_of/)
 
 ### 16.07.2017
 **Hackernews**
