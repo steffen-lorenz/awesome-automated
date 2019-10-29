@@ -1,12 +1,14 @@
 # awesome-automated
 
-**Rules**
-- at least 20 Posts
-
-### 29.10.19
+### 29.10.19 (added 29.10.19)
 **Hackernews**
 
 [Ask HN: What do you automate in your life and work?](https://news.ycombinator.com/item?id=21373931)
+
+### xx.07.2019 (added 29.10.19)
+**Hackernews**
+
+[Ask HN: How did you automate your day job?](https://news.ycombinator.com/item?id=20564687)
 
 ### 01.10.2018 (added 13.01.19)
 **reddit/r/Python**
