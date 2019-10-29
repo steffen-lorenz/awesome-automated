@@ -5,7 +5,7 @@
 
 [Ask HN: What do you automate in your life and work?](https://news.ycombinator.com/item?id=21373931)
 
-### xx.07.2019 (added 29.10.19)
+### 30.07.2019 (added 29.10.19)
 **Hackernews**
 
 [Ask HN: How did you automate your day job?](https://news.ycombinator.com/item?id=20564687)
@@ -24,6 +24,11 @@
 **reddit/r/Python**
 
 [What is the hardest/weirdest thing you have automated with Python?](https://www.reddit.com/r/Python/comments/8e6czq/what_is_the_hardestweirdest_thing_you_have/)
+
+### 19.04.2018 (Added 29.10.19)
+**Hackernews**
+
+[Ask HN: What tools do you use to automate your business?](https://news.ycombinator.com/item?id=16875106)
 
 ### 23.12.2017
 **reddit/r/Python**
@@ -89,6 +94,11 @@
 **reddit/r/Python**
 
 [r/python, what are some of the coolest things you've automated using python?](https://www.reddit.com/r/Python/comments/61vbni/rpython_what_are_some_of_the_coolest_things_youve/)
+
+### 06.01.2017 (added 29.10.19)
+**Hackernews**
+
+[Ask HN: What manual processes would you automate in your company?](https://news.ycombinator.com/item?id=13337024)
 
 ### 17.11.2016
 **Spiceworks**
