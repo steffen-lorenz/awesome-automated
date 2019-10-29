@@ -3,6 +3,11 @@
 **Rules**
 - at least 20 Posts
 
+### 29.10.19
+**Hackernews**
+
+[Ask HN: What do you automate in your life and work?](https://news.ycombinator.com/item?id=21373931)
+
 ### 01.10.2018 (added 13.01.19)
 **reddit/r/Python**
 
